@@ -1,6 +1,11 @@
+afirmacion.lst:afirmacion
 despedida.lst:despedida
-funcionalidad.lst:funcionalidad
-nombre.lst:nombre
+duda.lst:duda
+negacion.lst:negacion
+presentacion.lst:presentacion
+quien.lst:quien
+recomienda.lst:recomienda
+utilidad.lst:utilidad
 valoracion_positiva.lst:valoracion_positiva
 valoracion_negativa.lst:valoracion_negativa
 saludo.lst:saludo:::Saludo
