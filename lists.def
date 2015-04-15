@@ -9,6 +9,7 @@ utilidad.lst:utilidad:::Utilidad
 valoracion_positiva.lst:valoracion_positiva:::Valoracion_positiva
 valoracion_negativa.lst:valoracion_negativa:::Valoracion_negativa
 saludo.lst:saludo:::Saludo
+<<<<<<< HEAD
 numero.lst:numero:::Numero
 pelicula.lst:pelicula:::Pelicula
 actor.lst:actor:::Actor
@@ -16,3 +17,6 @@ genero_accion.lst:genero_accion:::Genero_accion
 genero_comedia.lst:genero_comedia:::Genero_comedia
 genero_drama.lst:genero_drama:::Genero_drama
 genero_terror.lst:genero_terror:::Genero_terror
+=======
+generoComedia.lst:generoComedia:::GeneroComedia
+>>>>>>> origin/master
