@@ -6,12 +6,14 @@ presentacion.lst:presentacion:::Presentacion
 quien.lst:quien:::Quien
 recomienda.lst:recomienda:::Recomienda
 utilidad.lst:utilidad:::Utilidad
-valoracion_positiva.lst:valoracion_positiva:::Valoracion_positiva
-valoracion_negativa.lst:valoracion_negativa:::Valoracion_negativa
+valoracion_positiva.lst:valoracion_positiva:::ValoracionPositiva
+valoracion_negativa.lst:valoracion_negativa:::ValoracionNegativa
 saludo.lst:saludo:::Saludo
 numero.lst:numero:::Numero
 pelicula.lst:pelicula:::Pelicula
 actor.lst:actor:::Actor
+genero_femenino.lst:genero_femenino:::GeneroFemenino
+genero_masculino:genero_masculino:::GeneroMasculino
 genero_accion.lst:genero_accion:::GeneroAccion
 genero_aventura.lst:genero_aventura:::GeneroAventura
 genero_animacion.lst:genero_animacion:::GeneroAnimacion
