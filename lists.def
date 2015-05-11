@@ -12,8 +12,6 @@ saludo.lst:saludo:::Saludo
 numero.lst:numero:::Numero
 pelicula.lst:pelicula:::Pelicula
 actor.lst:actor:::Actor
-genero_femenino.lst:genero_femenino:::GeneroFemenino
-genero_masculino:genero_masculino:::GeneroMasculino
 genero_accion.lst:genero_accion:::GeneroAccion
 genero_aventura.lst:genero_aventura:::GeneroAventura
 genero_animacion.lst:genero_animacion:::GeneroAnimacion
@@ -34,3 +32,5 @@ genero_tv.lst:genero_tv:::GeneroTV
 genero_suspense.lst:genero_suspense:::GeneroSuspense
 genero_guerra.lst:genero_guerra:::GeneroGuerra
 genero_oeste.lst:genero_oeste:::GeneroOeste
+sexo_femenino.lst:sexoMujer:::SexoMujer
+sexo_masculino.lst:sexoHombre:::SexoHombre
