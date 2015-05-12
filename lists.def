@@ -1,4 +1,5 @@
 afirmacion.lst:afirmacion:::Afirmacion
+anos.lst:anos:::Anos
 despedida.lst:despedida:::Despedida
 duda.lst:duda:::Duda
 negacion.lst:negacion:::Negacion
@@ -12,6 +13,7 @@ saludo.lst:saludo:::Saludo
 numero.lst:numero:::Numero
 pelicula.lst:pelicula:::Pelicula
 actor.lst:actor:::Actor
+generos.lst:generos:::Generos
 genero_accion.lst:genero_accion:::GeneroAccion
 genero_aventura.lst:genero_aventura:::GeneroAventura
 genero_animacion.lst:genero_animacion:::GeneroAnimacion
