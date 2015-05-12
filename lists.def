@@ -1,5 +1,4 @@
 afirmacion.lst:afirmacion:::Afirmacion
-anos.lst:anos:::Anos
 despedida.lst:despedida:::Despedida
 duda.lst:duda:::Duda
 negacion.lst:negacion:::Negacion
@@ -13,7 +12,6 @@ saludo.lst:saludo:::Saludo
 numero.lst:numero:::Numero
 pelicula.lst:pelicula:::Pelicula
 actor.lst:actor:::Actor
-generos.lst:generos:::Generos
 genero_accion.lst:genero_accion:::GeneroAccion
 genero_aventura.lst:genero_aventura:::GeneroAventura
 genero_animacion.lst:genero_animacion:::GeneroAnimacion
@@ -36,3 +34,4 @@ genero_guerra.lst:genero_guerra:::GeneroGuerra
 genero_oeste.lst:genero_oeste:::GeneroOeste
 sexo_femenino.lst:sexoMujer:::SexoMujer
 sexo_masculino.lst:sexoHombre:::SexoHombre
+ya_vista.lst:ya_vista:::Ya_vista
