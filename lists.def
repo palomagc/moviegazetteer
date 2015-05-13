@@ -1,7 +1,11 @@
+actor.lst:actor:::Actor
 afirmacion.lst:afirmacion:::Afirmacion
+anos.lst:anos:::Anos
 despedida.lst:despedida:::Despedida
 duda.lst:duda:::Duda
 negacion.lst:negacion:::Negacion
+numero.lst:numero:::Numero
+pelicula.lst:pelicula:::Pelicula
 presentacion.lst:presentacion:::Presentacion
 quien.lst:quien:::Quien
 recomienda.lst:recomienda:::Recomienda
@@ -9,9 +13,10 @@ utilidad.lst:utilidad:::Utilidad
 valoracion_positiva.lst:valoracion_positiva:::ValoracionPositiva
 valoracion_negativa.lst:valoracion_negativa:::ValoracionNegativa
 saludo.lst:saludo:::Saludo
-numero.lst:numero:::Numero
-pelicula.lst:pelicula:::Pelicula
-actor.lst:actor:::Actor
+sexo_femenino.lst:sexoMujer:::SexoMujer
+sexo_masculino.lst:sexoHombre:::SexoHombre
+ya_vista.lst:yaVista:::YaVista
+generos.lst:generos:::Generos
 genero_accion.lst:genero_accion:::GeneroAccion
 genero_aventura.lst:genero_aventura:::GeneroAventura
 genero_animacion.lst:genero_animacion:::GeneroAnimacion
@@ -32,6 +37,3 @@ genero_tv.lst:genero_tv:::GeneroTV
 genero_suspense.lst:genero_suspense:::GeneroSuspense
 genero_guerra.lst:genero_guerra:::GeneroGuerra
 genero_oeste.lst:genero_oeste:::GeneroOeste
-sexo_femenino.lst:sexoMujer:::SexoMujer
-sexo_masculino.lst:sexoHombre:::SexoHombre
-ya_vista.lst:ya_vista:::Ya_vista
