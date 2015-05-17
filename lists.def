@@ -2,9 +2,11 @@ actor.lst:actor:::Actor
 afirmacion.lst:afirmacion:::Afirmacion
 anos.lst:anos:::Anos
 despedida.lst:despedida:::Despedida
+dinamico.lst:dinamico:::Dinamico
 duda.lst:duda:::Duda
 negacion.lst:negacion:::Negacion
 numero.lst:numero:::Numero
+orden.lst:orden:::Orden
 pelicula.lst:pelicula:::Pelicula
 presentacion.lst:presentacion:::Presentacion
 quien.lst:quien:::Quien
