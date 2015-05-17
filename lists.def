@@ -40,4 +40,4 @@ genero_suspense.lst:genero_suspense:::GeneroSuspense
 genero_guerra.lst:genero_guerra:::GeneroGuerra
 genero_oeste.lst:genero_oeste:::GeneroOeste
 nota.lst:nota:::Nota
-tonterias.lst:
+tonterias.lst:tonterias:::Tonterias
